@@ -1,0 +1,13 @@
+{
+  "itemGroup.swordflow": "Example Mod Tab",
+  "block.swordflow.example_block": "Example Block",
+  "item.swordflow.example_item": "Example Item",
+
+  "swordflow.configuration.title": "SwordFlow Configs",
+  "swordflow.configuration.section.swordflow.common.toml": "SwordFlow Configs",
+  "swordflow.configuration.section.swordflow.common.toml.title": "SwordFlow Configs",
+  "swordflow.configuration.items": "Item List",
+  "swordflow.configuration.logDirtBlock": "Log Dirt Block",
+  "swordflow.configuration.magicNumberIntroduction": "Magic Number Text",
+  "swordflow.configuration.magicNumber": "Magic Number"
+}
